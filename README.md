@@ -1,5 +1,5 @@
 ### Hi there 👋
-I like writing simple, elegant code to tackle intricate problems
+I love writing simple, elegant code to tackle the intricate problems of planet Earth.
 
 Rails Engineer | Tech Enthusiast | Melophile | Sports Fanatic
 
